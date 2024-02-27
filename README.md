@@ -20,12 +20,15 @@ the evolving landscape of online content development in particular.
 
 #### Through a dataset containing 995 of the world's top YouTube channels, analyze the factors contributing to the success of a YouTube channel and user trends. Provide effective recommendations for those looking to build a personal YouTube channel in the future.  
 
-   Task 1: Who are the Top 10 YouTubers in terms of subscribers and the Top 10 YouTubers with the highest views?  
-   Task 2: Does a higher number of subscribers on a YouTube channel imply higher views?  
-   Task 3: Does uploading more videos on a YouTube channel lead to an increase in subscribers and views?  
-   Task 4: Which types of YouTube channels have the highest number of uploaded videos?  
-   Task 5: What is the distribution of YouTube channels in each category?  
-   Task 6: User trends on YouTube based on subscribers and views in each category.  
+   - Task 1: Who are the Top 10 YouTubers in terms of subscribers and the Top 10 YouTubers with the highest views?
+     
+   - Task 2: Does a higher number of subscribers on a YouTube channel imply higher views?
+     
+   - Task 3: Does uploading more videos on a YouTube channel lead to an increase in subscribers and views?
+     
+   - Task 4: Which types of YouTube channels have the highest number of uploaded videos?  
+   - Task 5: What is the distribution of YouTube channels in each category?  
+   - Task 6: User trends on YouTube based on subscribers and views in each category.  
    Task 7: How do users interact in these categories (measured by views per subscriber)?  
    Task 8: Does the content (characters) in the names of YouTube channels influence user views?  
    Task 9: Which countries do the top YouTubers come from?  
