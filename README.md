@@ -10,7 +10,8 @@
 - Welcome to YouTube, a social media platform dedicated to sharing videos that is used by users of all ages, especially the 
 younger generation, on a daily basis. Many people also consider this a channel for earning money, providing a high income. 
 According to Similarweb statistics, YouTube.com ranks third in terms of views in Vietnam, following only Google and Facebook. 
-Globally, it holds the second position, just behind the search engine giant Google.  
+Globally, it holds the second position, just behind the search engine giant Google.
+
 - A compilation of the most successful individuals on YouTube, this dataset will offer deep and valuable insights through in-depth 
 analysis. With detailed information on the number of subscribers, video views, posting frequency, country of origin, income, and 
 more, about the top creators, this will be a valuable resource for those passionate about data in general and those intrigued by 
@@ -50,8 +51,10 @@ the evolving landscape of online content development in particular.
 
 
 ## **Key Features**🔐  
-- `rank`: Position of the YouTube channel based on the number of subscribers    
-- `Youtuber`: Name of the YouTube channel  
+- `rank`: Position of the YouTube channel based on the number of subscribers
+  
+- `Youtuber`: Name of the YouTube channel
+  
 - `subscribers`: Number of subscribers to the channel  
 - `video views`: Total views across all videos on the channel  
 - `category`: Category or niche of the channel  
@@ -80,8 +83,13 @@ the evolving landscape of online content development in particular.
 - `Longitude`: Longitude coordinate of the country's location  
 
 ## **Technologies and Tools**💻  
-*Throughout the project, I will leverage:*  
-`Clean Data`: Using Python tools like Pandas or Numpy.  
-`Analysis`: Using Python tools like Scipy, Pandas or Numpy.  
-`Visualization`: Creating informative visualizations using tools like Matplotlib or Seaborn.  
-`Insights Presentation`: Summarizing my findings and insights.  
+
+*Throughout the project, I will leverage:* 
+
+- `Clean Data`: Using Python tools like Pandas or Numpy. 
+
+- `Analysis`: Using Python tools like Scipy, Pandas or Numpy.
+  
+- `Visualization`: Creating informative visualizations using tools like Matplotlib or Seaborn.
+ 
+- `Insights Presentation`: Summarizing my findings and insights.  
