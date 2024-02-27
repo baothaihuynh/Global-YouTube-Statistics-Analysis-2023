@@ -26,19 +26,27 @@ the evolving landscape of online content development in particular.
      
    - Task 3: Does uploading more videos on a YouTube channel lead to an increase in subscribers and views?
      
-   - Task 4: Which types of YouTube channels have the highest number of uploaded videos?  
-   - Task 5: What is the distribution of YouTube channels in each category?  
-   - Task 6: User trends on YouTube based on subscribers and views in each category.  
-   Task 7: How do users interact in these categories (measured by views per subscriber)?  
-   Task 8: Does the content (characters) in the names of YouTube channels influence user views?  
-   Task 9: Which countries do the top YouTubers come from?  
+   - Task 4: Which types of YouTube channels have the highest number of uploaded videos?
+     
+   - Task 5: What is the distribution of YouTube channels in each category?
+     
+   - Task 6: User trends on YouTube based on subscribers and views in each category.
+     
+   - Task 7: How do users interact in these categories (measured by views per subscriber)?
+     
+   - Task 8: Does the content (characters) in the names of YouTube channels influence user views?
+       
+   - Task 9: Which countries do the top YouTubers come from?  
       - 9.1. Unemployment rate in each country.  
       - 9.2. University enrollment rate in each country.  
       - 9.3. Urban population rate in each country.
-   Task 10: In which year were the most successful YouTube channels established?  
-   Task 11: Content creation trends over time for these channels.  
-   Task 12: Average monthly profitability in each category.  
-   Task 13: Is it true that higher views result in higher channel revenue?  
+   - Task 10: In which year were the most successful YouTube channels established?
+     
+   - Task 11: Content creation trends over time for these channels.
+     
+   - Task 12: Average monthly profitability in each category.
+     
+   - Task 13: Is it true that higher views result in higher channel revenue?  
 
 
 ## **Key Features**🔐  
