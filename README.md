@@ -132,10 +132,10 @@ the evolving landscape of online content development in particular.
 
 *Throughout the project, I will leverage:* 
 
-- `Clean Data`: Using Python tools like Pandas or Numpy. 
+- `Clean Data`: Using Python tools like Pandas and Numpy. 
 
-- `Analysis`: Using Python tools like Scipy, Pandas or Numpy.
+- `Analysis`: Using Python tools like Scipy, Pandas and Numpy.
   
-- `Visualization`: Creating informative visualizations using tools like Matplotlib or Seaborn.
+- `Visualization`: Creating informative visualizations using tools like Matplotlib and Seaborn.
  
 - `Insights Presentation`: Summarizing my findings and insights.  
